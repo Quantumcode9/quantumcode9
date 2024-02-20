@@ -6,6 +6,7 @@ I'm a Full-Stack Engineer with a background in visual arts and IT, I bring a uni
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-GitHub_Pages-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
