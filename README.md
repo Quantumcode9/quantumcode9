@@ -1,7 +1,7 @@
 ## Hi there, I'm Brian Taylor 👋
 
 
-###🚀 About Me
+### 🚀 About Me
 I'm a Full-Stack Engineer with a background in visual arts and IT, I bring a unique blend of creativity and technical expertise to software development. 
 
 ### 🔧 Technologies & Tools
