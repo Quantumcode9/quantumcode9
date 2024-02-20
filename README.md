@@ -12,9 +12,9 @@ I'm a Full-Stack Engineer with a background in visual arts and IT, I bring a uni
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Deploy-GitHub_Pages-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
 
@@ -31,6 +31,6 @@ I'm a Full-Stack Engineer with a background in visual arts and IT, I bring a uni
 - Email: [My Gmail](mailto:bataylor135@gmail.com) 
 - LinkedIn: [Brian Taylor](https://www.linkedin.com/in/briantaylor9/)
 
-- 😄 Pronouns: He/Him/That Guy
+😄 Pronouns: He/Him/That One Guy
 
 
