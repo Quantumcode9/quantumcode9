@@ -28,7 +28,7 @@ I'm a Full-Stack Engineer with a background in visual arts and IT, I bring a uni
 *This week...*
 
 ### 📫 How to reach me: ...
-- Email: [My Gmail](bataylor135@gmail.com) 
+- Email: [My Gmail](mailto:bataylor135@gmail.com) 
 - LinkedIn: [Brian Taylor](https://www.linkedin.com/in/briantaylor9/)
 
 - 😄 Pronouns: He/Him/That Guy
